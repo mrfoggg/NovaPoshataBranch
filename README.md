@@ -17,4 +17,4 @@
   source np_branch_venv/bin/activate
  - устанавливаем зависимости:
   pip install -r requirements.txt
-  - запускаем программу: python3 nnew\ group\ TTNs.py 
+  - запускаем программу: python3 NP\ Cities.py
